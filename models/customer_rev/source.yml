@@ -12,3 +12,12 @@ sources:
 
       - name: employees
         identifier: employees
+      
+      - name: orderitems
+        identifier: orderitems
+
+      - name: ordersfact
+        identifier: ordersfact
+
+      - name: customersrevenue
+        identifier: customersrevenue
